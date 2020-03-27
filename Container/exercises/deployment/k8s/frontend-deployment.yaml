@@ -34,10 +34,10 @@ spec:
           protocol: TCP
         resources:
           limits:
-            cpu: .5
+            cpu: .2
             memory: 512Mi
           requests:
-            cpu: .25
+            cpu: .1
             memory: 64Mi
         terminationMessagePath: /dev/termination-log
         terminationMessagePolicy: File
