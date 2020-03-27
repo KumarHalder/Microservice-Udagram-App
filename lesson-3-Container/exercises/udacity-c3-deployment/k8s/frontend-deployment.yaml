@@ -26,7 +26,7 @@ spec:
         service: frontend
     spec:
       containers:
-      - image: saik4t/udacity-restapi-feed
+      - image: saik4t/udacity-restapi-frontend
         imagePullPolicy: Always
         name: frontend
         ports:
