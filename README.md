@@ -1,5 +1,5 @@
-# microservices-v1
-This repository is associated with Cloud Developer ND  - Monolith to Microservices. 
+# Udagram by microservices
+This repository is refracted a monolith Udagram application into microservices. Ionic was used in the fronend and in the backend Docker/kubernetes are used. 
 
 # About the Project - Udagram Image Filtering Microservice
 Udagram is a simple cloud application developed alongside the Udacity Cloud Engineering Nanodegree. It allows users to register and log into a web client, post photos to the feed, and process photos using an image filtering microservice. Following are the services involved in this project:
@@ -19,3 +19,6 @@ Correspondingly, the project is split into following parts:
 ## Dependencies and Getting Setup
 Steps of running kubernetes and containers are describes in Microservice->Container->exercises->README.md file. 
 
+## Sample Image
+
+![Alt text](Screenshots/application-ss-1.png?raw=true "Sample Image")
